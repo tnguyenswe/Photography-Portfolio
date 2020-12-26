@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/photography-portfolio/static/css/main.201fe647.chunk.css",
+    "main.js": "/photography-portfolio/static/js/main.22ac5b70.chunk.js",
+    "main.js.map": "/photography-portfolio/static/js/main.22ac5b70.chunk.js.map",
+    "runtime-main.js": "/photography-portfolio/static/js/runtime-main.8aa01253.js",
+    "runtime-main.js.map": "/photography-portfolio/static/js/runtime-main.8aa01253.js.map",
+    "static/css/2.1f0b072e.chunk.css": "/photography-portfolio/static/css/2.1f0b072e.chunk.css",
+    "static/js/2.8a6b8f32.chunk.js": "/photography-portfolio/static/js/2.8a6b8f32.chunk.js",
+    "static/js/2.8a6b8f32.chunk.js.map": "/photography-portfolio/static/js/2.8a6b8f32.chunk.js.map",
+    "static/js/3.f94298a1.chunk.js": "/photography-portfolio/static/js/3.f94298a1.chunk.js",
+    "static/js/3.f94298a1.chunk.js.map": "/photography-portfolio/static/js/3.f94298a1.chunk.js.map",
+    "index.html": "/photography-portfolio/index.html",
+    "static/css/2.1f0b072e.chunk.css.map": "/photography-portfolio/static/css/2.1f0b072e.chunk.css.map",
+    "static/css/main.201fe647.chunk.css.map": "/photography-portfolio/static/css/main.201fe647.chunk.css.map",
+    "static/js/2.8a6b8f32.chunk.js.LICENSE.txt": "/photography-portfolio/static/js/2.8a6b8f32.chunk.js.LICENSE.txt",
+    "static/media/350z.23f26c18.jpg": "/photography-portfolio/static/media/350z.23f26c18.jpg",
+    "static/media/civic.d969acdf.jpg": "/photography-portfolio/static/media/civic.d969acdf.jpg",
+    "static/media/civic2.0dfff9a9.jpg": "/photography-portfolio/static/media/civic2.0dfff9a9.jpg",
+    "static/media/civic3.4392fc66.jpg": "/photography-portfolio/static/media/civic3.4392fc66.jpg",
+    "static/media/civic4.c8890448.jpg": "/photography-portfolio/static/media/civic4.c8890448.jpg",
+    "static/media/civic5.78b0e644.jpg": "/photography-portfolio/static/media/civic5.78b0e644.jpg",
+    "static/media/civic6.ce6e411c.jpg": "/photography-portfolio/static/media/civic6.ce6e411c.jpg",
+    "static/media/civics.c0c4db47.jpg": "/photography-portfolio/static/media/civics.c0c4db47.jpg",
+    "static/media/dan.0e18f755.jpg": "/photography-portfolio/static/media/dan.0e18f755.jpg",
+    "static/media/gio-interior.df82ac07.jpg": "/photography-portfolio/static/media/gio-interior.df82ac07.jpg",
+    "static/media/justinsti.51ae1077.jpg": "/photography-portfolio/static/media/justinsti.51ae1077.jpg",
+    "static/media/night.5aa2f369.jpg": "/photography-portfolio/static/media/night.5aa2f369.jpg",
+    "static/media/tj86.40e7c2e8.jpg": "/photography-portfolio/static/media/tj86.40e7c2e8.jpg",
+    "static/media/tj862.7eed1d54.jpg": "/photography-portfolio/static/media/tj862.7eed1d54.jpg",
+    "static/media/tj863.7da57e03.jpg": "/photography-portfolio/static/media/tj863.7da57e03.jpg",
+    "static/media/tj864.8338468d.jpg": "/photography-portfolio/static/media/tj864.8338468d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8aa01253.js",
+    "static/css/2.1f0b072e.chunk.css",
+    "static/js/2.8a6b8f32.chunk.js",
+    "static/css/main.201fe647.chunk.css",
+    "static/js/main.22ac5b70.chunk.js"
+  ]
+}
